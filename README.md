@@ -1,5 +1,6 @@
 # Verilog Kernel Module
 
+
 ## Moduł Verilog
 Moduł sprzętowy w języku Verilog realizujący operację mnożenia dwóch 24-bitowych liczb (zawartych w rejestracg A1 oraz A2) bez znaku metodą "bit po bicie".
 Dane na temat operacji są przechowywane w 3 rejestrach:
